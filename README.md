@@ -1,4 +1,4 @@
-# Lang, a esm for i18n
+# Lang, an esm for i18n
 
 ## Format
 
