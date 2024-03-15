@@ -1,0 +1,24 @@
+﻿key,en,ja
+parsing_failed,"Failed parsing json file, check console for details.","Failed parsing json file, check console for details."
+no_video_sources,No video sources defined.,No video sources defined.
+show_popup_message_error,"Error in showPopupMessage, message must be string","Error in showPopupMessage, message must be string"
+top_bottom,Top-Bottom,Top-Bottom
+top_bottom_360,Top-Bottom 360,Top-Bottom 360
+side_by_side,Side-By-Side,Side-By-Side
+zoom_video,Zoom video,Zoom video
+tilt_video,Tilt video,Tilt video
+switch_mode,Switch mode,Switch mode
+not_available,N/A,N/A
+video_not_found,Video file not found.,Video file not found.
+search_in_folders,Search in folder...,Search in folder...
+clear,Clear,クリア
+ascending,ASC,昇順
+descending,DESC,降順
+name,Name,Name
+date,Date,Date
+sorting,Sorting,ソート
+previous_page,Previous Page,前ページ
+next_page,Next Page,次ページ
+refresh,Refresh,再読み込み
+close,Close,閉じる
+sources,Sources,ソース
